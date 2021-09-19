@@ -1,0 +1,144 @@
+.header{
+    background: #3b5998;
+    height: 100px;
+    width: 100%;
+    padding: 1px;
+}
+body{
+    margin: 0;
+    font-family:helvetica Neue, Helvetica, Arial, Helvetica, sans-serif ;
+
+}
+.logo{
+    width: 50%;
+    padding-top:16px;
+    float: left;
+    height: 90px;
+   
+}
+.login{
+    width: 50%;
+    float:left;
+    padding-top: 10px;
+    height: 90px;
+}
+.logo-text{
+    
+        color: #fff;
+        font-size: 35px;
+        font-weight: bold;
+        text-decoration: none;
+        font-family: helvetica Neue, Helvetica, Arial, Helvetica, sans-serif;
+        margin-left:90px;
+               
+        
+}
+.login label{
+    color: #fff;
+    font-size: 11px;
+}
+.login-control{
+    margin-left: 115px;
+
+}
+.forget{
+
+    color:#ca7898;
+    font-size: 15px;
+    text-decoration: none;
+    /* padding-left: 280px; */
+    
+}
+.sub{
+    background: #4267b2;
+    color: #fff;
+    height: 25px;
+    border-color: #29487d;
+    cursor: pointer;
+
+}
+.sub:hover{
+    background: brown;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    
+    padding-top: 52px;
+}
+.right-section{
+    width: 50%;
+    float: left;
+   
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height:500px ;
+}
+.para{
+    color: blue;
+font-size: 20px;
+font-weight: bold;
+padding-left: 147px;
+}
+.image{
+    width: 510px;
+    padding-left: 117px;
+}
+#h1{
+color: blue;
+}
+#h3{
+    color: blue;
+}
+.form{
+    padding-left: 30px;
+}
+.new{
+    color: blue;
+    margin-top: 10px;
+    
+    
+}
+.new1{
+    
+    color: blue;
+    margin-top: 10px;
+}
+.sel{
+    margin-left: 44px;
+    height: 33px;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.opti{
+    height: 33px;
+    margin-top: 10px;
+    
+}
+#lab{
+    margin-left: 44px;
+}
+#subm{
+    margin-top: 10px;
+    margin-left: 4px;
+    height: 44px;
+    width: 151px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #4CAF50;
+}
+#a{
+    color: blue;
+    font-size: medium;
+    text-decoration: none;
+    
+}
+.page{
+    text-decoration: none;
+    padding-top: 30px;
+}
+.page{
+    padding-top: 10px;
+}
